@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/bun": "latest",
-    "@types/node": "^20.5.9",
+    "@types/node": "^22.0.0",
     "@types/pg": "^8.10.9",
     "typescript": "^5.2.2"
   },
